@@ -10,3 +10,5 @@ PvP while leveling.
   the mark of that battleground.
 
 All numbers are in `conf/mod-temucraft-pvp.conf.dist`. Texts are in `module_string` (`mod-temucraft-pvp`).
+
+Part of the Temucraft modules for AzerothCore 3.3.5a.
